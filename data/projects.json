@@ -10,8 +10,34 @@
       "/images/V700/img3.png"
     ],
     "category": ["Design"],
+    "year": "2023",
+    "featured": true
+  },
+  {
+    "id": 25,
+    "title": "Medical Precision device design",
+    "description": "Designed the injection-molded control unit for the Comfort Marker 2.0, along with its docking station. Focused on manufacturability, ergonomics, and integration with the pen module for precise and safe medical skin marking.",
+    "images": [
+      "/images/medical/cover.jpg",
+      "/images/medical/img1.jpg",
+      "/images/medical/img2.jpg"
+    ],
+    "category": ["Design"],
+    "year": "2019",
+    "featured": true
+  },
+  {
+    "id": 19,
+    "title": "4x4 keyboard",
+    "description": "A custom-built 4x4 keypad with a self-designed PCB and frame. Runs QMK firmware on an Arduino Pro Micro, allowing every key to be assigned to shortcuts, macros, or special functions. The back of the PCB features a Voronoi pattern.",
+    "images": [
+      "/images/keypad/cover.jpg",
+      "/images/keypad/img1.jpg",
+      "/images/keypad/img2.jpg"
+    ],
+    "category": ["3D printing", "Electronics","Code"],
     "year": "2024",
-    "featured": false
+    "featured": true
   },
   {
     "id": 20,
@@ -22,20 +48,20 @@
       "/images/Onshapi/img3.png" 
     ],
     "category": ["Code"],
-    "year": "2024",
+    "year": "2025",
     "featured": false
   },
   {
-    "id": 19,
-    "title": "4x4 keyboard",
-    "description": "A custom-built 4x4 keypad with a self-designed PCB and frame. Runs QMK firmware on an Arduino Pro Micro, allowing every key to be assigned to shortcuts, macros, or special functions. The back of the PCB features a Voronoi pattern.",
+    "id": 26,
+    "title": "Fossil display",
+    "description": "Holder for small fossilized fish, with the flat rock fitted into a laser-cut wooden oval frame that follows the contour of the stone for a precise fit. The base is 3D-printed, and features a slot at the back for an information card.",
     "images": [
-      "/images/keypad/cover.jpg",
-      "/images/keypad/cover.jpg",
-      "/images/keypad/cover.jpg"
+      "/images/fossil/cover.jpg",
+      "/images/fossil/img1.jpg",
+      "/images/fossil/img2.jpg"
     ],
-    "category": ["3D printing", "Electronics","Code"],
-    "year": "2024",
+    "category": ["3D printing"],
+    "year": "2025",
     "featured": false
   },
   {
@@ -44,8 +70,8 @@
     "description": "Transport trolley to accompany a VertiDrive robot. Keeps the control box off the ground for easy access, holds the umbilical power cable on a reel placed on the back, includes a storage box for the remote control and accessories. Easy to move around in the field.",
     "images": [
       "/images/trolley/cover.jpg",
-      "/images/trolley/cover.jpg",
-      "/images/trolley/cover.jpg"
+      "/images/trolley/img1.jpg",
+      "/images/trolley/img2.jpg"
     ],
     "category": ["Design"],
     "year": "2024",
@@ -61,7 +87,7 @@
       "/images/worx/img2.jpg"
     ],
     "category": ["3D printing"],
-    "year": "2024",
+    "year": "2023",
     "featured": false
   },
   {
@@ -74,7 +100,7 @@
       "/images/logi/img2.JPG"
     ],
     "category": ["Design", "3D printing"],
-    "year": "2024",
+    "year": "2023",
     "featured": false
   },
   {
@@ -87,7 +113,7 @@
       "/images/tools/img2.jpg"
     ],
     "category": ["3D printing"],
-    "year": "2024",
+    "year": "2023",
     "featured": false
   },
   {
@@ -100,7 +126,7 @@
       "/images/aqua/img3.jpeg"
     ],
     "category": ["Design","3D printing"],
-    "year": "2024",
+    "year": "2023",
     "featured": false
   },
   {
@@ -112,7 +138,45 @@
       "/images/femm/img1.jpg"
     ],
     "category": ["Design","Code"],
-    "year": "2024",
+    "year": "2022",
+    "featured": false
+  },
+  {
+    "id": 24,
+    "title": "Flightcase for robot",
+    "description": "Custom flight case designed to hold a complete VertiDrive robot system, including crawler, high-pressure washing arm, umbilical cable, control box, remote control, and accessories. Enables easy, safe, and clean transport.",
+    "images": [
+      "/images/flightcase/cover.jpg",
+      "/images/flightcase/img1.jpg",
+      "/images/flightcase/img2.jpg"
+    ],
+    "category": ["Design"],
+    "year": "2020",
+    "featured": false
+  },
+  {
+    "id": 22,
+    "title": "Robot quick clamp",
+    "description": "Redesigned clamp for holding a robot tube arm, replacing four screws with a single handle. The handle can be turned and moved aside, allowing the top half of the clamp to hinge open for quick, tool-free access.",
+    "images": [
+      "/images/M8clamp/cover.png",
+      "/images/M8clamp/img1.jpg",
+      "/images/M8clamp/img2.png"
+    ],
+    "category": ["Design"],
+    "year": "2020",
+    "featured": false
+  },
+  {
+    "id": 23,
+    "title": "Injection molded corner",
+    "description": "Prototype injection-molded component made for small series production. As part of a solar panel heat exchanger, it contains coolant channels that allow flow through the system, enabling heat to be captured and improving overall efficiency.",
+    "images": [
+      "/images/viri/cover.jpg",
+      "/images/viri/img1.jpg"
+    ],
+    "category": ["Design"],
+    "year": "2020",
     "featured": false
   },
   {
@@ -124,7 +188,7 @@
       "/images/magpen/img1.jpg"
     ],
     "category": ["Design", "3D printing"],
-    "year": "2024",
+    "year": "2019",
     "featured": false
   },
   {
@@ -137,7 +201,7 @@
       "/images/penbrain/img2.jpg"
     ],
     "category": ["Design","3D printing"],
-    "year": "2024",
+    "year": "2018",
     "featured": false
   },
   {
@@ -148,8 +212,8 @@
       "/images/lamp/cover.jpg",
       "/images/lamp/img1.jpg"
     ],
-    "category": ["Design", "3D printing"],
-    "year": "2024",
+    "category": ["Design", "3D printing","Electronics"],
+    "year": "2018",
     "featured": false
   },
   {
@@ -162,7 +226,7 @@
       "/images/zef/img2.png"
     ],
     "category": ["Design"],
-    "year": "2024",
+    "year": "2018",
     "featured": false
   },
   {
@@ -175,7 +239,7 @@
       "/images/crown/mod1.jpg"
     ],
     "category": ["Design"],
-    "year": "2024",
+    "year": "2017",
     "featured": false
   },
   {
@@ -188,20 +252,7 @@
       "/images/cuber/mod3.jpg"
     ],
     "category": ["Design"],
-    "year": "2024",
-    "featured": false
-  },
-  {
-    "id": 6,
-    "title": "VR controller",
-    "description": "Modular, customizable controller for Manus VR, adaptable to weapons, vehicles, or other game tools. Features multiple modules, buttons, and options like simulated recoil to enhance immersion and intuitive gameplay.",
-    "images": [
-      "/images/manvr/cover.png",
-      "/images/manvr/img1.png",
-      "/images/manvr/img2.png"
-    ],
-    "category": ["Design"],
-    "year": "2024",
+    "year": "2017",
     "featured": false
   },
   {
@@ -214,22 +265,22 @@
       "/images/unil/img2.png"
     ],
     "category": ["Design"],
-    "year": "2024",
+    "year": "2017",
     "featured": false
   },
   {
-    "id": 4,
-    "title": "Light safety seat",
-    "description": "Baby carrier redesigned in carbon fiber composites, offering the same safety at half the weight of plastic versions. Produced with resin transfer molding, the seat weighs just over 1 kg and includes a ball-ended handle for more convenient carrying.",
+    "id": 6,
+    "title": "VR controller",
+    "description": "Modular, customizable controller for Manus VR, adaptable to weapons, vehicles, or other game tools. Features multiple modules, buttons, and options like simulated recoil to enhance immersion and intuitive gameplay.",
     "images": [
-      "/images/carbon/cover.png",
-      "/images/carbon/img1.png",
-      "/images/carbon/img2.png"
+      "/images/manvr/cover.png",
+      "/images/manvr/img1.png",
+      "/images/manvr/img2.png"
     ],
     "category": ["Design"],
-    "year": "2024",
+    "year": "2016",
     "featured": false
-  },
+  },  
   {
     "id": 3,
     "title": "Micro bike",
@@ -241,7 +292,7 @@
       "/images/mbike/img3.jpg"
     ],
     "category": ["Design","3D printing"],
-    "year": "2024",
+    "year": "2017",
     "featured": false
   },
   {
@@ -255,7 +306,7 @@
       "/images/wakka/img3.png"
     ],
     "category": ["Design"],
-    "year": "2024",
+    "year": "2016",
     "featured": false
   },
   {
@@ -267,8 +318,21 @@
       "/images/mecha/img1.jpg",
       "/images/mecha/img2.jpg"
     ],
-    "category": ["Design","Code"],
-    "year": "2024",
+    "category": ["Design","Code","Electronics"],
+    "year": "2016",
+    "featured": false
+  },
+   {
+    "id": 4,
+    "title": "Light safety seat",
+    "description": "Baby carrier redesigned in carbon fiber composites, offering the same safety at half the weight of plastic versions. Produced with resin transfer molding, the seat weighs just over 1 kg and includes a ball-ended handle for more convenient carrying.",
+    "images": [
+      "/images/carbon/cover.png",
+      "/images/carbon/img1.png",
+      "/images/carbon/img2.png"
+    ],
+    "category": ["Design"],
+    "year": "2014",
     "featured": false
   }
 ]
